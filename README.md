@@ -3,9 +3,9 @@
 
 
 ## Contact me
-email: [rrilla01@gmail.com](rrilla01@gmail.com)
-github: [https://github.com/rrilla](https://github.com/rrilla)
-portfolio: [https://alkaline-curve-227.notion.site/1146706ec1ed415ea41d934d5e7f9187](https://alkaline-curve-227.notion.site/1146706ec1ed415ea41d934d5e7f9187)
+email: [rrilla01@gmail.com](rrilla01@gmail.com)  
+github: [https://github.com/rrilla](https://github.com/rrilla)  
+portfolio: [https://alkaline-curve-227.notion.site/1146706ec1ed415ea41d934d5e7f9187](https://alkaline-curve-227.notion.site/1146706ec1ed415ea41d934d5e7f9187)  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rrilla)](https://github.com/anuraghazra/github-readme-stats)
 
