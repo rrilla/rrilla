@@ -5,7 +5,7 @@
 ## Project
 - [부산IT교육센터 - OP.GG 클론 코딩](https://github.com/rrilla/Android.SpringBoot-op.gg_Project)  
 - [부산IT교육센터 - 축구 매칭 플랫폼](https://github.com/rrilla/React.Android-Matching_Project)  
-- [부산IT교육센터 - 칵테일에 관한 모든 것](https://github.com/rrilla/Jsp-Cocktail_Project)  
+- [부산IT교육센터 - 칵테일에 대한 모든 것](https://github.com/rrilla/Jsp-Cocktail_Project)  
 
 ## Contact me
 email: [rrilla01@gmail.com](rrilla01@gmail.com)  
