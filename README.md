@@ -1,6 +1,6 @@
 ## 한재현
 - (2020.06 ~ 2020.12) 부산IT교육센터 수료
-- (2021.03 ~ 2021.09) (주)더컴퍼니 근무
+- (2021.03 ~ 2021.10) (주)더컴퍼니 근무
 
 ## Project
 - [부산IT교육센터 - OP.GG 클론 코딩](https://github.com/rrilla/Android.SpringBoot-op.gg_Project)  
